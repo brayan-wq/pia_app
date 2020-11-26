@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860159028984",
+    "firebase_url": "https://piaa-b5ea7.firebaseio.com",
+    "project_id": "piaa-b5ea7",
+    "storage_bucket": "piaa-b5ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860159028984:android:66b7dac706faa7ec2f150d",
+        "android_client_info": {
+          "package_name": "com.example.holle_wor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860159028984-vhl050717r7aq7io1vs3ig35ehllim8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQ_H-Zq94-iGBXFRnLVbxXNjebUan7gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860159028984-vhl050717r7aq7io1vs3ig35ehllim8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
